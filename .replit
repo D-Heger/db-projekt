@@ -1,0 +1,1 @@
+run = "clear && javac -encoding UTF-8 *.java && java -Dfile.encoding=UTF-8 -cp lib/mysql-connector-java-8.0.26.jar:. Program"

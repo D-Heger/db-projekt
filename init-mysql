@@ -1,0 +1,6 @@
+rm -r mysql
+mkdir mysql
+mkdir mysql/var
+mkdir mysql/tmp
+
+mysqld --defaults-file=my.cnf --initialize-insecure
