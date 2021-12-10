@@ -1,8 +1,8 @@
-# db-projekt
+# db-projekt #
 Dieses Projekt bietet ein Grundgerüst für die Realisierung der Lösung.
 
 
-Verwaltung von Medikamenten in Apotheke (konzept)
+## Verwaltung von Medikamenten in Apotheke (konzept) ##
 
 ### Kunden:  ###
 	-Kundennummer  
@@ -30,7 +30,7 @@ Für jeden Kunden - Liste mit gekauften Medikamenten
 Für jedes Medikament - Liste mit Kunden, die es gekauft haben
 
 
-Verwaltung von Medikamenten in Apotheke (relational)
+## Verwaltung von Medikamenten in Apotheke (relational) ##
 
 ### Kunden:  ###
 	-Kundennummer (int)  
