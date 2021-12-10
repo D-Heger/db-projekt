@@ -1,7 +1,3 @@
-# db-projekt #
-Dieses Projekt bietet ein Grundgerüst für die Realisierung der Lösung.
-
-
 ## Verwaltung von Medikamenten in Apotheke (konzept) ##
 
 ### Kunden:  ###
