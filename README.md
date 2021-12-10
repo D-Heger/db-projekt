@@ -1,11 +1,11 @@
 ## Verwaltung von Medikamenten in Apotheke (konzept) ##
 
 ### Kunden:  ###
-	- Kundennummer  
-	- Name  
-	- Vorname  
-	- Geburtsdatum  
-	- Krankenkassename  
+* Kundennummer  
+* Name  
+* Vorname  
+* Geburtsdatum  
+* Krankenkassename  
 
 ### Medikamente:  ###
 	- Name  
