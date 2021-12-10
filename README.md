@@ -4,14 +4,14 @@ Dieses Projekt bietet ein Grundgerüst für die Realisierung der Lösung.
 
 Verwaltung von Medikamenten in Apotheke (konzept)
 
-Kunden:
+Kunden:  
 	-Kundennummer
 	-Name
 	-Vorname
 	-Geburtsdatum
 	-Krankenkassename
 
-Medikamente:
+Medikamente:  
 	-Name
 	-Hersteller
 	-Pharmazentralnummer
@@ -19,7 +19,7 @@ Medikamente:
 
 Kunden -> kaufen -> Medikamente
 
-Verkauf:
+Verkauf:  
 	-Kunde
 	-Preis
 	-Datum
