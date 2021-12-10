@@ -4,14 +4,14 @@ Dieses Projekt bietet ein Grundgerüst für die Realisierung der Lösung.
 
 Verwaltung von Medikamenten in Apotheke (konzept)
 
-Kunden:  
+###Kunden:  ###
 	-Kundennummer  
 	-Name  
 	-Vorname  
 	-Geburtsdatum  
 	-Krankenkassename  
 
-Medikamente:  
+###Medikamente:  ###
 	-Name  
 	-Hersteller  
 	-Pharmazentralnummer  
@@ -19,7 +19,7 @@ Medikamente:
 
 Kunden -> kaufen -> Medikamente
 
-Verkauf:  
+###Verkauf:  ###
 	-Kunde  
 	-Preis  
 	-Datum  
@@ -32,14 +32,14 @@ Für jedes Medikament - Liste mit Kunden, die es gekauft haben
 
 Verwaltung von Medikamenten in Apotheke (relational)
 
-Kunden:  
+###Kunden:  ###
 	-Kundennummer (int)  
 	-Nachname (varchar(50))  
 	-Vorname (varchar(50))  
 	-Geburtsdatum (date)  
 	-Krankenkassename (varchar(50))  
 
-Medikamente:  
+###Medikamente:  ###
 	-Medikamentenname (varchar(50))  
 	-Hersteller (varchar(50))  
 	-Pharmazentralnummer (int(8))  
@@ -47,7 +47,7 @@ Medikamente:
 
 Kunden -> kaufen -> Medikamente
 
-Verkauf:  
+###Verkauf:  ###
 	-Kundenname (varchar(50))  
 	-PreisIn€ (float)  
 	-Datum (date)  
